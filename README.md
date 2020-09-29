@@ -11,7 +11,7 @@
   - CSS
   - JavaScript
  
-# ScreenShots
+# ScreenShot
 
 
 ![Screenshot](screenshot/sendEmail.jpg)
