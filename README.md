@@ -14,6 +14,6 @@
 # ScreenShot
 
 
-![Screenshot](screenshot/sendEmail.jpg)
+<img src="screenshot/sendEmail.JPG" alt="ScreenShot"/>
 
 
